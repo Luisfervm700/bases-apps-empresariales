@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio1Java {
+public class Numerosprimos {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese un número: ");
@@ -33,3 +33,4 @@ public class Ejercicio1Java {
         scanner.close();
     }
 }
+
